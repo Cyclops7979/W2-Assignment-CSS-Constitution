@@ -1,0 +1,41 @@
+
+body{
+	background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: -o-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: linear-gradient(to right, #AF00A4, #00FCF5, #008BF7);
+	color: #00FF00;
+}
+
+h1{
+	color: #F7FF00;
+	text-shadow:0 0 2px aqua;
+	font-family: times new roman, arial;
+	font-size: 30px;
+}
+
+h2{
+	color: #F7FF00;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+	font-size: 30px;
+}
+
+h3{
+	color: #F7FF00;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+	font-size: 30px;
+}
+
+p{
+	color: #000000;
+	text-shadow:0 0 2px purple;
+	font-family: Lucida Console, arial;
+	font-size: 15px;
+
+}
+
+a:visited{
+	color: aqua;
+}
